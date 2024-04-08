@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/micha%C5%82-burda-0756042b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michal burda" height="30" width="40" /></a>
 </p>
-<img src='https://banner2.cleanpng.com/20180626/ub/kisspng-steam-mervils-a-vr-adventure-computer-icons-perso-steam-engine-5b32ee81d03a36.7853527115300645138529.jpg' alt='steam' height='40'>](https://steamcommunity.com/profiles/76561198872117909)  
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png' alt='steam' height='40'>](https://steamcommunity.com/profiles/76561198872117909)  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=michalburda4&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalburda4&layout=compact)
