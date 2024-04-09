@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif">
 
 - 🏫 I am currently a student of *AGH University of Krakow*.
-- 💻 Major is *Information Technology and Intelligent Systems*.
+- 💻 Major is *Computer Science and Intelligent Systems*.
 - 🏀 My hobbies are *running marathons and playing team sports*.
 - 🎮 Member of *AGH Code Industry*.
 - 🕰️ I work as a *Bellman* and a *Math tutor*.
