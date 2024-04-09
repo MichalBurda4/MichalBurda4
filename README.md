@@ -1,6 +1,6 @@
 ## <div align="center">Hi 👋, I'm Michał Burda, a student of Computer Science and Intelligent Systems at the AGH University of Science and Technology. 💻</div>  
 
-<img align="right" alt="Coding" width="265" src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif">
+<img align="right" alt="Coding" width="250" src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif">
   
 - 🏀 My hobbies are *running marathons and playing team sports*.
   
@@ -12,8 +12,6 @@
 
 
 ## Connect with me: 📞
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/micha%C5%82-burda-0756042b7/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/540970664295792640)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198872117909)  &nbsp; <a href="mailto:michalburda4@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"  />
 
