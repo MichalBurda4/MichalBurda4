@@ -13,8 +13,9 @@
 
 ## Connect with me: 📞
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/micha%C5%82-burda-0756042b7/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/540970664295792640)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198872117909)  &nbsp; <a href="mailto:michalburda4@gmail.com"> <img src=[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/micha%C5%82-burda-0756042b7/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/540970664295792640)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198872117909)  &nbsp; <a href="mailto:michalburda4@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"  />
-  />
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/micha%C5%82-burda-0756042b7/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/540970664295792640)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198872117909)  &nbsp; <a href="mailto:michalburda4@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"  />
+
+ 
 
 ## Github stats ⚡ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=michalburda4&theme=dark)](https://git.io/streak-stats)
