@@ -1,10 +1,6 @@
-## <div align="center">Hi 👋, I'm Michał Burda. a I am a student of Computer Science and Intelligent Systems at the AGH University of Science and Technology. 💻</div>  
+## <div align="center">Hi 👋, I'm Michał Burda, a student of Computer Science and Intelligent Systems at the AGH University of Science and Technology. 💻</div>  
 
 <img align="right" alt="Coding" width="278" src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif">
-
-- 🏫 I am currently a student of *AGH University of Krakow*.
-  
-- 💻 Major is *Computer Science and Intelligent Systems*.
   
 - 🏀 My hobbies are *running marathons and playing team sports*.
   
