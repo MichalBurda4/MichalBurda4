@@ -19,7 +19,7 @@
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/540970664295792640)  &nbsp; 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198872117909)  &nbsp; 
 [<img src="https://raw.githubusercontent.com/wle8300/instagram-logo/874dffb6fe7e064ae524959b47dae15d6ffcf224/logo.svg" width="3.5%"/>](https://www.instagram.com/michalburda_/)  &nbsp; 
-[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="3.5%"/>](https://www.instagram.com/michalburda_/)  &nbsp; 
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="3.5%"/>](https://www.facebook.com/profile.php?id=100015457230939)  &nbsp; 
 <a href="mailto:michalburda4@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> 
 
  
