@@ -4,7 +4,7 @@
   
 - 🏀 My hobbies are *running marathons and playing team sports*.
   
-- 🎮 Member of *AGH Code Industry*.
+- 🎮 Member of *AGH Code Industry*.a
 
 - 📖 I am currently learning programming in C#.
   
