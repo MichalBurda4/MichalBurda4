@@ -6,7 +6,7 @@
   
 - 🎮 Member of *AGH Code Industry*.
 
-- 📖 I am currently learning programming in C#.a
+- 📖 I am currently learning programming in C#.
   
 - 👨‍🏫 I work as a *Bellman* and a *Math tutor*.
   
