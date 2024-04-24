@@ -26,7 +26,6 @@
 
 ## Github stats ⚡ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=michalburda4&theme=dark)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalburda4&layout=compact)
 
 
