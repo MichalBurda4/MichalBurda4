@@ -36,7 +36,5 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MichalBurda4&theme=ocean-gradient&height=100&width=300)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalburda4&layout=compact&height=300&width=600)
 
 
