@@ -7,7 +7,7 @@
 - 📖 I am currently learning programming in C#. 
 - 👨‍🏫 I work as a *Bellman* and a *Math tutor*.
 - 💬 If you have any questions, *just ask me*.
-a
+
 ## Connect with me: 📞
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/micha%C5%82-burda-0756042b7/)  &nbsp; 
