@@ -1,5 +1,5 @@
 ## <div align="center">Hi 👋, I'm Michał Burda, a student of Computer Science and Intelligent Systems at the AGH University of Science and Technology. 💻</div>  
-
+A
 <img align="right" alt="Coding" width="190" src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif">
 
 - 🏀 My hobbies are *running marathons and playing team sports*. 
