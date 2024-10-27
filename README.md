@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="190" src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif">
 
 - 🏀 My hobbies are *running marathons and playing team sports*. 
-- 🎮 Member of *AGH Code Industry*.
+- 🎮 Member of *AGH Code Industry*.a
 - 📖 I am currently learning programming in C#. 
 - 👨‍🏫 I work as a *Math tutor*.
 - 💬 If you have any questions, *just ask me*.
