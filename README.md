@@ -9,7 +9,7 @@
 - 💬 If you have any questions, *just ask me*.
 
 ## Connect with me: 📞
-
+a
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/micha%C5%82-burda-0756042b7/)  &nbsp; 
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/540970664295792640)  &nbsp; 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198872117909)  &nbsp; 
