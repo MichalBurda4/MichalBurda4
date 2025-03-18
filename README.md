@@ -2,7 +2,7 @@
 
 <!-- <img align="right" alt="Codiang" width="190" src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif"> -->
 - 🏀 My hobbies are *running marathons and playing team sports*. 
-- 🎮 Member of *AGH Code Industry*.2
+- 🎮 Member of *AGH Code Industry*.
 - 📖 I am currently learning programming in Java Script. 
 - 👨‍🏫 I work as a *Math tutor*.
 - 💬 If you have any questions, *just ask me*.
