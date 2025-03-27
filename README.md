@@ -72,6 +72,8 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
 </p>
 
 ---
@@ -101,3 +103,102 @@
     </td>
   </tr>
 </table>
+
+### 📁 Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBurda4/Web-application-programming-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Web-application-programming-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MichalBurda4/ConstructionSite">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=ConstructionSite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBurda4/IDE-RE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=IDE-RE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MichalBurda4/iot_fire_alarm">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=iot_fire_alarm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBurda4/Discrete-system-simulation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Discrete-system-simulation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MichalBurda4/Przetwarzanie-jezyka-naturalnego-w-systemach-sztucznej-inteligencji">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Przetwarzanie-jezyka-naturalnego-w-systemach-sztucznej-inteligencji&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBurda4/CSharp-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=CSharp-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MichalBurda4/Konwerter-Java-Python-Babilon">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Konwerter-Java-Python-Babilon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Course Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBurda4/DigitalProcessing-Course">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=DigitalProcessing-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MichalBurda4/Machine-Learning-Course">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Machine-Learning-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBurda4/CSharp-Course">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=CSharp-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MichalBurda4/Data-Engineering-Course">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Data-Engineering-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBurda4/Databases-Course">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Databases-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MichalBurda4/Java-Course2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Java-Course2&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
