@@ -205,7 +205,15 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBurda4/Computational-Intelligence-in-Digital-Data-Analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Computational-Intelligence-in-Digital-Data-Analysis&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 
 
