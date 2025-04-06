@@ -109,6 +109,13 @@
 <table>
   <tr>
     <td>
+      <a href="https://github.com/MichalBurda4/how-to-agh-reboot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=how-to-agh-reboot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/MichalBurda4/Web-application-programming-project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Web-application-programming-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
       </a>
@@ -168,6 +175,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
