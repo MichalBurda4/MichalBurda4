@@ -25,21 +25,6 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/540970664295792640">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/profiles/76561198872117909">
-    <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/michalburda_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100015457230939">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
 </p>
 
 ---
