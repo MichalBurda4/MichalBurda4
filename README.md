@@ -62,11 +62,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-| | |
-| :---: | :---: |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=MichalBurda4&theme=ocean-gradient)](http://www.github.com/MichalBurda4) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalBurda4&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true)](http://www.github.com/MichalBurda4) |
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MichalBurda4&theme=ocean-gradient)](http://www.github.com/MichalBurda4) 
 ---
 
 ### 📁 Projects
