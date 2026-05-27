@@ -2,11 +2,10 @@
   Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm Michał Burda
 </h1>
 
-- 🎓 Student of *Computer Science and Intelligent Systems* at **AGH University of Science and Technology**
-- 🏃 I enjoy *running marathons* and *playing team sports*
+- 🎓 Student of *Computer Science and Intelligent Systems, Artificial Intelligence and Data Science* at **AGH University of Krakow**
+- 👨‍💻 Working as a *Java Test Developer* at **Assa Abloy**
 - 👨‍🎓 Member of *AGH Code Industry*
-- 👨‍🏫 Working as a *Math tutor*
-- 📚 Currently learning *JavaScript*
+- 📚 Currently learning *Data Science*
 
 ---
 
@@ -24,7 +23,6 @@
   <a href="https://github.com/MichalBurda4">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -38,6 +36,7 @@
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -58,161 +57,56 @@
   <img src="https://img.shields.io/badge/GitLab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-
-</p>
-
----
-
-### 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/MichalBurda4">
-        <img src="https://streak-stats.demolab.com/?user=MichalBurda4&theme=ocean-gradient" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td>
-      <a href="http://www.github.com/MichalBurda4">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalBurda4&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+| :---: | :---: |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=MichalBurda4&theme=ocean-gradient)](http://www.github.com/MichalBurda4) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalBurda4&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true)](http://www.github.com/MichalBurda4) |
+
+---
 
 ### 📁 Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/how-to-agh-reboot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=how-to-agh-reboot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/Web-application-programming-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Web-application-programming-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MichalBurda4/ConstructionSite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=ConstructionSite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/IDE-RE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=IDE-RE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MichalBurda4/iot_fire_alarm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=iot_fire_alarm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/Discrete-system-simulation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Discrete-system-simulation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MichalBurda4/Przetwarzanie-jezyka-naturalnego-w-systemach-sztucznej-inteligencji">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Przetwarzanie-jezyka-naturalnego-w-systemach-sztucznej-inteligencji&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/CSharp-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=CSharp-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MichalBurda4/Konwerter-Java-Python-Babilon">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Konwerter-Java-Python-Babilon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/object_tracking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=object_tracking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Krzysiek899/ORM-Library">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=ORM-Library&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
+| | |
+| :---: | :---: |
+| [![how-to-agh-reboot](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=how-to-agh-reboot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/how-to-agh-reboot) | [![Web-application-programming-project](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Web-application-programming-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/Web-application-programming-project) |
+| [![ConstructionSite](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=ConstructionSite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/ConstructionSite) | [![IDE-RE](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=IDE-RE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/IDE-RE) |
+| [![iot_fire_alarm](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=iot_fire_alarm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/iot_fire_alarm) | [![Discrete-system-simulation](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Discrete-system-simulation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/Discrete-system-simulation) |
+| [![Przetwarzanie-jezyka-naturalnego...](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Przetwarzanie-jezyka-naturalnego-w-systemach-sztucznej-inteligencji&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/Przetwarzanie-jezyka-naturalnego-w-systemach-sztucznej-inteligencji) | [![CSharp-Project](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=CSharp-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/CSharp-Project) |
+| [![Konwerter-Java-Python-Babilon](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Konwerter-Java-Python-Babilon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/Konwerter-Java-Python-Babilon) | [![object_tracking](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=object_tracking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/object_tracking) |
+| [![ORM-Library](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=ORM-Library&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/Krzysiek899/ORM-Library) | |
 
 ---
 
 ### 🎓 Course Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/DigitalProcessing-Course">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=DigitalProcessing-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MichalBurda4/Machine-Learning-Course">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Machine-Learning-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/CSharp-Course">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=CSharp-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MichalBurda4/Data-Engineering-Course">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Data-Engineering-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/Databases-Course">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Databases-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MichalBurda4/Java-Course2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Java-Course2&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MichalBurda4/Computational-Intelligence-in-Digital-Data-Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Computational-Intelligence-in-Digital-Data-Analysis&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+| :---: | :---: |
+| [![DigitalProcessing-Course](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=DigitalProcessing-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/DigitalProcessing-Course) | [![Machine-Learning-Course](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Machine-Learning-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/Machine-Learning-Course) |
+| [![CSharp-Course](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=CSharp-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/CSharp-Course) | [![Data-Engineering-Course](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Data-Engineering-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/Data-Engineering-Course) |
+| [![Databases-Course](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Databases-Course&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/Databases-Course) | [![Java-Course2](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Java-Course2&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/Java-Course2) |
+| [![Computational-Intelligence...](https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=Computational-Intelligence-in-Digital-Data-Analysis&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&bg_color=1c1917&hide_border=true)](https://github.com/MichalBurda4/Computational-Intelligence-in-Digital-Data-Analysis) | |
 
+---
 
+### 📜 Praca Inżynierska / Engineering Thesis
 
+<p align="left">
+  <a href="https://github.com/MichalBurda4/ORM_Library_Engineering_Work">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichalBurda4&repo=ORM_Library_Engineering_Work&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ORM Library Engineering Work" />
+  </a>
+</p>
 
+---
+
+### 🌐 Personal Website
+
+<p align="left">
+  <a href="https://michalburda.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-michalburda.vercel.app-blue?style=flat-square&logo=vercel&logoColor=white" alt="Personal Website" />
+  </a>
+</p>
